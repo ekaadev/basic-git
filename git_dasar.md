@@ -137,6 +137,7 @@ Untuk kembali ke snapshot sebelumnya, dapat menggunakan perintah:
 ```bash
 git checkout {hash}
 ```
+
 Untuk kembali ke paling awal, dapat menggunakan perintah:
 ```bash
 git checkout {branch name}
