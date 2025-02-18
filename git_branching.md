@@ -132,6 +132,9 @@ Jadi misal ```git rebase main``` artinya branch yang sedang digunakan sekarang a
 
 Dengan seperti ini branch main akan tetap sama commitnya sampai pada branch main menggunakan command ```git merge {branch name}```, setelah mengeksekusi commmand ini commit branch main akan fast forward ke commit branch yang di merge.
 
+### Rebase secara visual
+![rebase](https://github.com/user-attachments/assets/485dac7d-f7b1-4c7d-9499-fdade027f2db)
+
 ## Squash
 Squash adalah teknik penggabungan commit yang dilakukan dengan menggabungkan beberapa commit menjadi satu commit.
 
